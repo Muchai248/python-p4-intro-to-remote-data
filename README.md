@@ -8,6 +8,7 @@
 
 ***
 
+
 ## Key Vocab
 
 - **JSON**: JSON is an open standard file format and data interchange format.
